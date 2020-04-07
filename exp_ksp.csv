@@ -1,0 +1,34 @@
+KSP_Feldbeschreibung,Energieatlas_Feldbeschreibung,Wert,Einheit,Mode,EMode
+HE_Waerme,EEV_Wärme_PHH,885269.990493033,MWh,Energie,Wärme
+GE_Waerme,EEV_Wärme_GHD,180612.45679,MWh,Energie,Wärme
+IE_Waerme,EEV_Wärme_IND,111496.16966,MWh,Energie,Wärme
+KE_Waerme,EEV_Wärme_KOM,0,MWh,Energie,Wärme
+HE_Strom,EEV_Strom_PHH,85202.54933,MWh,Energie,Strom
+GE_Strom,EEV_Strom_GHD,41802.0658,MWh,Energie,Strom
+IE_Strom,EEV_Strom_IND,136873.9025,MWh,Energie,Strom
+KE_Strom,EEV_Strom_KOM,0,MWh,Energie,Strom
+EEV_Strom_Verkehr,EEV_Fahrstrom_Verkehr,16246.8355351915,MWh,Energie,Strom
+EEV_Kraftstoff_Verkehr,EEV_Kraftstoff_Verkehr,821452.800463348,MWh,Energie,Wärme
+HTHG_Waerme,THG_Bund_Wärme_PHH,256297.778058791,t CO2äqu,THG,Wärme
+GTHG_Waerme,THG_Bund_Wärme_GHD,51478.4786905646,t CO2äqu,THG,Wärme
+ITHG_Waerme,THG_Bund_Wärme_IND,31866.40737497,t CO2äqu,THG,Wärme
+KTHG_Waerme,THG_Bund_Wärme_KOM,0,t CO2äqu,THG,Wärme
+HTHG_Strom,THG_Bund_Strom_PHH,52825.5805846,t CO2äqu,THG,Strom
+GTHG_Strom,THG_Bund_Strom_GHD,25917.280796,t CO2äqu,THG,Strom
+ITHG_Strom,THG_Bund_Strom_IND,84861.81955,t CO2äqu,THG,Strom
+KTHG_Strom,THG_Bund_Strom_KOM,0,t CO2äqu,THG,Strom
+THG_Strom_Verkehr,THG_Bund_Fahrstrom_Verkehr,14971.7888370598,t CO2äqu,THG,Strom
+THG_Kraftstoff_Verkehr,THG_Bund_Kraftstoff_Verkehr,256340.004515782,t CO2äqu,THG,Wärme
+HTHG_l_Waerme,THG_lokal_Wärme_PHH,246418.5951065,t CO2äqu,THG,Wärme
+GTHG_l_Waerme,THG_lokal_Wärme_GHD,51478.4786905646,t CO2äqu,THG,Wärme
+ITHG_l_Waerme,THG_lokal_Wärme_IND,31866.40737497,t CO2äqu,THG,Wärme
+KTHG_l_Waerme,THG_lokal_Wärme_KOM,0,t CO2äqu,THG,Wärme
+HTHG_l_Strom,THG_lokal_Strom_PHH,6300.46949721893,t CO2äqu,THG,Strom
+GTHG_l_Strom,THG_lokal_Strom_GHD,2794.4729191617,t CO2äqu,THG,Strom
+ITHG_l_Strom,THG_lokal_Strom_IND,10297.1682530126,t CO2äqu,THG,Strom
+KTHG_l_Strom,THG_lokal_Strom_KOM,0,t CO2äqu,THG,Strom
+THG_l_Strom_Verkehr,THG_lokal_Fahrstrom_Verkehr,10613.7781367006,t CO2äqu,THG,Strom
+THG_l_Kraftstoff_Verkehr,THG_lokal_Kraftstoff_Verkehr,256340.004515782,t CO2äqu,THG,Wärme
+Datengüte,Datengüte,61.5747457233362,%,Percent,Qualität
+U26,Emissionsfaktor Bundesstrom-Mix,0.62,t/MWh,Faktor,Mix
+U26a,Emissionsfakor Territorial-Mix,0.073488781290579,t/MWh,Faktor,Mix
